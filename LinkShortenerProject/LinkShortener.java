@@ -1,4 +1,4 @@
-package projects;
+package LinkShortenerProject;
 
 import java.io.IOException;
 
